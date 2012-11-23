@@ -1,0 +1,5 @@
+#surefire
+#Tue Nov 20 15:22:33 EET 2012
+user.dir=C\:\\Users\\vazzolla\\workspace_tartan_demo\\maven-jmeter-plugins
+localRepository=C\:\\Users\\vazzolla\\.m2\\repository
+basedir=C\:\\Users\\vazzolla\\workspace_tartan_demo\\maven-jmeter-plugins

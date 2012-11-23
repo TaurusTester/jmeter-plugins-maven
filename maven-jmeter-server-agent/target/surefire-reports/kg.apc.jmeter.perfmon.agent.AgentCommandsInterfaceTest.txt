@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kg.apc.jmeter.perfmon.agent.AgentCommandsInterfaceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
